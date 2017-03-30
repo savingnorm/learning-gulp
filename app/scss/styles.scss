@@ -1,0 +1,39 @@
+.newone{
+	display:none;
+}
+
+.testing{
+width: percentage(2/4);
+}
+
+.testing2{
+display: none;
+}
+
+.testing3{
+	position: absolute;
+	top: 0px;
+	left: 50px;
+}
+
+body{
+	background: pink;
+}
+
+p{
+	color:red;
+	font-weight: normal;
+	font-size: 50px;
+}
+
+div{
+	width: 50%;
+	height: 50%;
+	background-color: blue;
+	border: solid 2px black;
+
+}
+
+h3{
+	color:pink;
+}
